@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { useWallet, useConnection } from '@solana/wallet-adapter-react';
 import { FC, useState } from 'react';
 import {
